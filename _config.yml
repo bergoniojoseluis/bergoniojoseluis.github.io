@@ -7,17 +7,20 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Jose Luis Bergonio's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Jose Luis Bergonio
+headline: Registered Mechanical Engineer - Cum Laude
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Fresh graduate of Mechanical Engineering and a recent passer of the February 2025 
+  Mechanical Engineering Licensure Examination. Highly motivated and detail-oriented, with a 
+  strong foundation in mechanical design, thermodynamics, and system analysis. Demonstrated 
+  leadership in student organizations and hands-on experience through academic projects and 
+  internship training. Eager to contribute to high-impact operations, supply chain, or 
+  engineering roles in a dynamics and innovation-driven environment. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg

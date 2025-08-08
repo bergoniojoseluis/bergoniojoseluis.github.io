@@ -12,7 +12,10 @@ main-image: /CAD.png
 ---
 ## #1 - Lines & Circles
 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54706050172_c781aa58a1_b.jpg" height="500"%}
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54706050177_007e073e51_b.jpg)" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
 
-
+## #2 - Layers and Properties of Screw Threads
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54706050172_c781aa58a1_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  

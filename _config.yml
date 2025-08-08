@@ -36,7 +36,7 @@ certi-url: https://drive.google.com/file/d/1jW3p1M3bZt4Iu4LDJ-Gxxb8yyMvYYRXT/vie
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: test    # www.linkedin.com/in/jose-luis-bergonio-12464a255 
-  github: test    # wwww.github.com/bergoniojoseluis
+  github: test    # www.github.com/bergoniojoseluis
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 

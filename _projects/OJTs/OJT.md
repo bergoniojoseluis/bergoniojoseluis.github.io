@@ -12,8 +12,7 @@ main-image: /CAD.png
 ---
 ## #1 - Lines & Circles
 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54706050172_c781aa58a1_b.jpg" height="400"%}
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54706050172_c781aa58a1_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
 
-![Hello](OJTs/CADP1.png)
 

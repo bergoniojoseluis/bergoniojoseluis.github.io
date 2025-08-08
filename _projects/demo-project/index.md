@@ -12,7 +12,7 @@ skills:
   - Metal forming
   - Thermal simulation
 
-main-image: /me123.jpg
+main-image: /me123.png
 ---
 
 

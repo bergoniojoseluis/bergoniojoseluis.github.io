@@ -31,11 +31,12 @@ profile_image: ./assets/images/profile-image/Bergonio2_ID.jfif
 resume-url: https://drive.google.com/file/d/1ogaZOhiKkhOyLbhfWruCZaKuxNXRbceM/view?usp=drive_link # or /assets/resume/resume.pdf
 intern-url: https://drive.google.com/file/d/1Erqxdf_imgY90qniHdLb191Xr4rFVEei/view?usp=drive_link
 thesis-url: https://drive.google.com/file/d/1yYn3MEmm96nyiXLIE3Y8uHpD0HKCiIk8/view?usp=drive_link
+certi-url: https://drive.google.com/file/d/19fpynGojjPxuIeKK1KxPUET5sQjDseul/view?usp=drive_link
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: test    # www.linkedin.com/in/jose-luis-bergonio-12464a255 
-  github: test    # https://github.com/bergoniojoseluis
+  github: test    # wwww.github.com/bergoniojoseluis
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 

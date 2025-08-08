@@ -6,7 +6,7 @@ skills:
 - Fusion360
 - Technical Drawing Interpretation
 - Attention-to-Detail
-main-image: /ME130.png
+main-image: /C.jpg
 ---
 # Projects
 ---

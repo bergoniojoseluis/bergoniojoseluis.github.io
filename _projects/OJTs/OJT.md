@@ -8,16 +8,10 @@ skills:
 - Attention-to-Detail
 main-image: /CAD.png
 ---
-# Header 1 
-**Projects**
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+# Projects
+---
+## #1 - Lines & Circles
 
-
-## Embedding images 
-### External images
 {% include image-gallery.html images="https://flic.kr/p/2rmbNMA" height="400"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
 

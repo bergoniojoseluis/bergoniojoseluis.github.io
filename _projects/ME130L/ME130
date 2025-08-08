@@ -6,39 +6,32 @@ skills:
 - Fusion360
 - Technical Drawing Interpretation
 - Attention-to-Detail
-main-image: /ME130.png
+main-image: /CAD.png
 ---
 # Projects
 ---
-## #1 - Knuckle Joint
+## #1 - Lines & Circles
+
 {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707262733_860415ffc9_b.jpg" height="500"%}
+images="https://live.staticflickr.com/65535/54706050177_007e073e51_b.jpg)" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54706232852_c0a1c1f7b4_b.jpg" height="500"%}
+
+## #2 - Layers and Properties of Screw Threads
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54706050172_c781aa58a1_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707262753_0c5255170f_b.jpg" height="500"%}
+
+## #3 - Industrial Plant Floor Plan Layout
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54707206390_928ba07bee_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
----
-## #2 - Cotter Joint
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707262703_3027f1928e_b.jpg" height="500"%}
+
+## #4 - Control Bracket
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54706877701_86f79d169d_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54706232802_4101e6d75e_b.jpg" height="500"%}
+
+## #5 - Rendered 3D Bedroom
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54706050162_ac0a78dedd_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707061706_b7024d0c80_b.jpg" height="500"%}
+
+## #6 - Mechanical Assembly Drawing
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54706877731_ba903503c5_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
----
-## #3 - Turnbuckle Joint
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707061696_00a354786b_b.jpg" height="500"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54706232792_cc225ffdcf_b.jpg" height="500"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707287304_f259ea11c5_b.jpg" height="500"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span> 

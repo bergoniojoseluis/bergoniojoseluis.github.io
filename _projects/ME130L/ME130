@@ -10,9 +10,35 @@ main-image: /ME130.png
 ---
 # Projects
 ---
-## #1 - Lines & Circles
-
+## #1 - Knuckle Joint
 {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54706050177_007e073e51_b.jpg)" height="500"%}
+images="https://live.staticflickr.com/65535/54707262733_860415ffc9_b.jpg" height="500"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54706232852_c0a1c1f7b4_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707262753_0c5255170f_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+---
+## #2 - Cotter Joint
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707262703_3027f1928e_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54706232802_4101e6d75e_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707061706_b7024d0c80_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+---
+## #3 - Turnbuckle Joint
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707061696_00a354786b_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54706232792_cc225ffdcf_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707287304_f259ea11c5_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span> 

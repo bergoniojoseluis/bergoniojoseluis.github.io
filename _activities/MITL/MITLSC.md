@@ -7,17 +7,3 @@ skills:
 - Technical Drawing Interpretation
 - Attention-to-Detail
 main-image: /LayoutDiesel.png
----
-# Projects
----
-## #1 - Knuckle Joint
----
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707262733_860415ffc9_b.jpg" height="500"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54706232852_c0a1c1f7b4_b.jpg" height="500"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-{% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54707262753_0c5255170f_b.jpg" height="500"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>

@@ -15,6 +15,13 @@ skills:
 main-image: /project2.jpg
 ---
 
+
+you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
+
+The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
+{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
+
+<br>
 ---
 # Header 1 
 Used for the title (already generated automatically at the top)
@@ -40,13 +47,6 @@ The second video has the autoplay on. copy and paste the 11-digit id found in th
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
 {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
 {% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
-
-you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
-
-The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
-{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
-
-<br>
 
 ## Adding a hozontal line
 ---

@@ -1,0 +1,23 @@
+---
+layout: post
+title: Solar Air Dryer With Perforated Baffles and Thermal Storage for Drying Coconut Briquettes
+description: This course introduces the concepts of Computer-Aided Drafting (CAD) and describes the capabilities of the AutoCAD software in developing electronic drawings (e-Drawings). It also covers an introduction to the AutoCAD environment, terminologies, and the general operating procedures, and various techniques in entering and executing basic AutoCAD commands.
+skills: 
+- Fusion360
+- Technical Drawing Interpretation
+- Attention-to-Detail
+main-image: /ME130.png
+---
+# Projects
+---
+## #1 - Knuckle Joint
+---
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707262733_860415ffc9_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54706232852_c0a1c1f7b4_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html 
+images="https://live.staticflickr.com/65535/54707262753_0c5255170f_b.jpg" height="500"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span> 

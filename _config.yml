@@ -170,6 +170,7 @@ plugins:
 
 include:
   - _projects
+  - _activities
 
 
 # Exclude from processing.

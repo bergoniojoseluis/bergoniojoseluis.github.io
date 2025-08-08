@@ -6,5 +6,5 @@ skills:
 - AutoCAD
 - Technical Drawing Interpretation
 - Attention-to-Detail
-main-image: /project.webp 
+main-image: /CAD1.png
 ---

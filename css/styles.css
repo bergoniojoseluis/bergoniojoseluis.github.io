@@ -846,7 +846,10 @@ footer p {
         height: 500px; 
         margin: 0 auto;
     }
-
+    .activities-grid-section .grid-container .activities-card {
+        max-width: 500px;
+        height: 500px; 
+        margin: 0 auto;
 
 }
 
@@ -929,7 +932,9 @@ footer p {
     .project-grid-section .grid-container {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
-  
+  .activities-grid-section .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
     /*SECTION 4:Contact */
     .contact-section .group{
         flex-direction: column;

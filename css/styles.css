@@ -434,14 +434,14 @@ nav .mobile-nav {
 }
 
 
-.activities-card .project-title {
+.activities-card .activities-title {
     font-size: 1.4em;
     text-decoration: none;
     transition: color 0.3s ease; 
     margin-bottom: 10px
 }
 
-.activities-card .project-title:hover {
+.activities-card .activities-title:hover {
     text-decoration: underline;
 }
 

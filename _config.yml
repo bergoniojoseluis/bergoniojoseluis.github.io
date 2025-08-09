@@ -15,7 +15,12 @@ title: Jose Luis Bergonio's Portfolio # This is what shows up in the tab of the 
 name: Jose Luis Bergonio
 headline: Registered Mechanical Engineer - Cum Laude
 description: >- # dont remove this line. this will ignore all new lines until the next section
-<div style="text-align: justify"> Fresh graduate in Mechanical Engineering from Mapúa Malayan Colleges Laguna and a recent passer of the February 2025 Mechanical Engineering Licensure Examination.** Experienced in mechanical design, thermodynamics, and system analysis, with hands-on involvement in academic projects and internship training. His undergraduate research focused on developing a **solar air dryer with perforated baffles and thermal storage** for drying coconut briquettes, reflecting his interest in **renewable energy and sustainability**. During college, he served as **Marketing Director** of the student-governing body of the Mapúa Institute of Technology at Laguna, where he gained experience in leadership, campaign strategy, and student engagement. Beyond engineering, he is skilled in **photo/video editing, coding, and technical communication**. Highly motivated, detail-oriented, and passionate about applying technology and innovation to advance **sustainable development and high-impact engineering solutions**.---</div>
+<div style="text-align: justify"> Fresh graduate in Mechanical Engineering from Mapúa Malayan Colleges Laguna and a recent passer of the February 2025 Mechanical Engineering Licensure Examination.** 
+Experienced in mechanical design, thermodynamics, and system analysis, with hands-on involvement in academic projects and internship training. His undergraduate research focused on developing a **solar air dryer with perforated baffles and 
+thermal storage** for drying coconut briquettes, reflecting his interest in **renewable energy and sustainability**. During college, he served as **Marketing Director** of the student-governing body of the Mapúa Institute of Technology at Laguna, 
+where he gained experience in leadership, campaign strategy, and student engagement. Beyond engineering, he is skilled in **photo/video editing, coding, and technical communication**. Highly motivated, detail-oriented, and passionate about applying 
+technology and innovation to advance **sustainable development and high-impact engineering solutions**.
+---</div>
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/Bergonio2_ID.jfif

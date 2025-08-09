@@ -2,7 +2,6 @@
 layout: post
 title: Computer-Aided Drafting and Designs (AutoCAD Projects)
 description: As part of my college coursework in Computer-Aided Drafting and Design, I developed a series of technical drawings using AutoCAD to simulate real-world engineering documentation. This project introduced me to the fundamentals of CAD, including the AutoCAD interface, essential commands, and precise drafting techniques. I translated conceptual designs into accurate 2D drawings, ensuring proper scaling, dimensioning, and adherence to industry standards. 
-
 Through this experience, I learned to interpret engineering drawings, optimize workflows within the AutoCAD environment, and apply meticulous attention to detail — key skills for producing professional, manufacturable designs.
 skills: 
 - AutoCAD 2D Drafting 

@@ -158,10 +158,6 @@ collections:
     output: true
     permalink: /projects/:path/
 
-    activities:
-    output: true
-    permalink: /activities/:path/
-
 
 markdown: kramdown
 highlighter: rouge
@@ -178,10 +174,9 @@ kramdown:
 
 plugins:
   - jekyll-feed
-
+  
 include:
   - _projects
-  - _activities
 
 
 # Exclude from processing.

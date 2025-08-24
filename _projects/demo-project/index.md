@@ -12,7 +12,7 @@ main-image: /me123.png
 ---
 # Projects
 ---
-Cams & Followers Laboratory Exercise
+## Cams & Followers Laboratory Exercise
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54740898108_27d6eca3a2_c.jpg" height="500"%}
  
@@ -34,6 +34,6 @@ images="https://live.staticflickr.com/65535/54740682656_9774dfecda_c.jpg" height
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54740914639_6cc9d09f58_z.jpg" height="500"%} 
 ---
-Technical Drawing (Proof of Original Work)
+## Technical Drawing (Proof of Original Work)
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54741041705_8c0a76945a_c.jpg" height="500"%}

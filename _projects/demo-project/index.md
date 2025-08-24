@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Elements Technical Drawing
-description: A collection of hand-drawn technical illustration showcasing fundamental machine elements such as cams, followers, joints, and shafts. The project demonstrates profiency in interpreting engineering standards, visualizing 3D components, and communicating mechanical design concepts through precise technical drawings. The showcased project is only one of the works I created. Other projects, which include detailed computations, can be found [here.](https://drive.google.com/drive/folders/1PTcgZvAcagBjWg_mEcQ9AnoIQkgV8Mwh?usp=drive_link)
+description: A collection of hand-drawn technical illustration showcasing fundamental machine elements such as cams, followers, joints, and shafts. The project demonstrates profiency in interpreting engineering standards, visualizing 3D components, and communicating mechanical design concepts through precise technical drawings. 
 skills: 
   - Technical Drawing & Drafting
   - Orthographic & Isometric Projection
@@ -35,5 +35,6 @@ images="https://live.staticflickr.com/65535/54740682656_9774dfecda_c.jpg" height
 images="https://live.staticflickr.com/65535/54740914639_6cc9d09f58_z.jpg" height="500"%} 
 ---
 ## Technical Drawing (Proof of Original Work)
+<span style="font-size: 10px">The showcased project is only one of the works I created. Other projects, which include detailed computations, can be found [here.](https://drive.google.com/drive/folders/1PTcgZvAcagBjWg_mEcQ9AnoIQkgV8Mwh?usp=drive_link)</span>
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54741041705_8c0a76945a_c.jpg" height="500"%}

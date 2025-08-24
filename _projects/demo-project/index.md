@@ -1,16 +1,12 @@
 ---
 layout: post
 title: Machine Elements Technical Drawing
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+description: A collection of hand-drawn technical illustration showcasing fundamental machine elements such as cams, followers, joints, and shafts. The project demonstrates profiency in interpreting engineering standards, visualizing 3D components, and communicating mechanical design concepts through precise technical drawings. 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Technical Drawing & Drafting
+  - Orthographic & Isometric Projection
+  - Mechanical Design Fundamentals
+  - Attention to Detail & Visualization
 
 main-image: /me123.png
 ---

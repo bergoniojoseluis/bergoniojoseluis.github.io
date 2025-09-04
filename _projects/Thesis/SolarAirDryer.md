@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Solar Air Dryer With Perforated Baffles and Thermal Storage for Drying Coconut Briquettes
-description: This thesis focused on the design, simulation, and experimental validation of a solar air dryer with perforated baffles and thermal storage, tested for coconut briquette drying in Brgy. Bambang, Calaca, Batangas. The study combined CFD analysis, AutoCAD design, and real-time experiments to evaluate airflow, heat distribution, and moisture removal efficiency.
-Only selected visuals and outputs are showcased here to highlight the most relevant contributions and results. The complete research paper and data are available in the full document. See below.
+description: This thesis focused on the design, simulation, and experimental validation of a solar air dryer with perforated baffles and thermal storage, tested for coconut briquette drying in Brgy. Bambang, Calaca, Batangas. The study combined CFD analysis, AutoCAD design, and real-time experiments to evaluate airflow, heat distribution, and moisture removal efficiency. Only selected visuals and outputs are showcased here to highlight the most relevant contributions and results. The complete research paper and data are available in the full document. See below.
 
 skills: 
 - Computational Fluid Dynamics (CFD) 

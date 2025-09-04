@@ -63,19 +63,15 @@ skills:
     - AutoCAD
     - Fusion 360 (Autodesk)
     - Computational Fluid Dynamics (CFD)
-  - category: Prototyping
+  - category: Programming & Computational Tools
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - MATLAB
+    - Python
+    - HTML
+    - CSS
+    - JavaScript
+    - MS Excel
+    - MS Office Suites
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14

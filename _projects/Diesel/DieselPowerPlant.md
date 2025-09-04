@@ -17,16 +17,16 @@ main-image: /LayoutDiesel.png
 # Contributions & Highlights
 ---
 <span style="font-size: 10px"> #1 **Load & demand analysis completed** – produced Average Daily Load and Load Duration Curves; established peak load 9,005 kW, avg load 6,175 kW, PLF 68.6% to drive unit sizing.</span> {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54765046100_a6d040c64e_c.jpg" height="400"%}
+images="https://live.staticflickr.com/65535/54765046100_a6d040c64e_c.jpg" height="200"%}
 
 <span style="font-size: 10px"> #2 **Generator configuration evaluated** – Compared schemes on capex/opex & reliability; selected 7 units, 16,400 kW achieving PUF 82.2%.</span> {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54765004229_1fa397d7bf_c.jpg" height="400"%}
+images="https://live.staticflickr.com/65535/54765004229_1fa397d7bf_c.jpg" height="200"%}
 
 <span style="font-size: 10px"> #3 **O&M organization designed** – defined roles, headcount, and costs for safe 24/7 operations; workforce 85, annual labor cost ₱36.46M.</span> {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54764699731_c049b0bea9_b.jpg" height="400"%}
 
 <span style="font-size: 10px"> #4 **Bill of Materials (BOM)** – Created detailed materials and cost estimates for the plant foundation and key equipment.</span> {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54763855287_7b719fc142_z.jpg" height="400"%}
+images="https://live.staticflickr.com/65535/54763855287_7b719fc142_z.jpg" height="200"%}
 
 <span style="font-size: 10px"> #5 **Project Leadership & Documenatation** – Coordinated technical sections, unified calculations/assumptions, and enforced consistency across safety, cost, and design deliverables.</span>
 

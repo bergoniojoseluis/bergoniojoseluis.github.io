@@ -3,8 +3,6 @@ layout: post
 title: Diesel Power Plant Design Project
 description: A comprehensive design study of a diesel power plant integrating renewable energy considerations. The project covered demand analysis, generator sizing, cooling systems, fuel storage, foundation design, maintenance planning, and cost evaluation. The work demonstrated both technical design and project management, ensuring the plant’s efficiency, safety, and economic feasibility.
 
-[View Full Project] (https://drive.google.com/file/d/1l9mGjPqhitGqowj-BFSyjZ2-F3sth-Mr/view?usp=drive_link)
-
 skills: 
 - AutoCAD 
 - Project Leadership
@@ -81,3 +79,6 @@ images="https://live.staticflickr.com/65535/54763855242_8f84a7abd4_c.jpg" height
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54764699736_93e752edfb_c.jpg" height="400"%}
 <span style="font-size: 10px">Note: Summary of machinery specifications and capacities.</span>
+---
+
+[View Full Project] (https://drive.google.com/file/d/1l9mGjPqhitGqowj-BFSyjZ2-F3sth-Mr/view?usp=drive_link)

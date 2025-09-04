@@ -81,4 +81,4 @@ images="https://live.staticflickr.com/65535/54764699736_93e752edfb_c.jpg" height
 <span style="font-size: 10px">Note: Summary of machinery specifications and capacities.</span>
 ---
 
-[View Full Project] (https://drive.google.com/file/d/1l9mGjPqhitGqowj-BFSyjZ2-F3sth-Mr/view?usp=drive_link)
+[View Full Project](https://drive.google.com/file/d/1l9mGjPqhitGqowj-BFSyjZ2-F3sth-Mr/view?usp=drive_link)

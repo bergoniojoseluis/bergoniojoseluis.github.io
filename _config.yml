@@ -59,40 +59,40 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: Engineering Design & Modeling
     tools:
-      - "SolidWorks (3D modeling & simulation)"
-      - "AutoCAD (structural & layout design)"
-      - "Fusion 360 (Autodesk)"
-      - "Computational Fluid Dynamics (CFD)"
+      - SolidWorks (3D modeling and simulation)
+      - AutoCAD (structural and layout design)
+      - Fusion 360 (Autodesk)
+      - Computational Fluid Dynamics (CFD)
 
   - category: Programming & Computational Tools
     tools:
-      - "MATLAB (data analysis, numerical methods)"
-      - "Python (basic scripting, data processing)"
+      - MATLAB (data analysis and numerical methods)
+      - Python (basic scripting and data processing)
       - HTML
       - CSS
       - JavaScript
-      - "MS Excel (advanced formulas, graphing, cost analysis)"
-      - "MS Office Suite (Word, PowerPoint, Outlook)"
+      - MS Excel (advanced formulas, graphing, cost analysis)
+      - MS Office Suite (Word, PowerPoint, Outlook)
 
-  - category: Technical & Research Skills
+  - category: Technical and Research Skills
     tools:
-      - "Project Management (team coordination, documentation structuring)"
-      - "Data Analysis (statistical methods, performance evaluation)"
-      - "Report & Technical Writing (academic & engineering documentation)"
-      - "Research Presentation (defense, poster design, portfolio communication)"  
+      - Project Management (team coordination, documentation structuring)
+      - Data Analysis (statistical methods, performance evaluation)
+      - Report and Technical Writing (academic and engineering documentation)
+      - Research Presentation (defense, poster design, portfolio communication)  
 
-  - category: Systems & Operations
+  - category: Systems and Operations
     tools:
-      - "Power Plant Design (diesel + renewable integration)"
-      - "Bill of Materials (BOM) preparation & cost estimation"
-      - "Operation & Maintenance Planning (organizational structure, labor costing)"
-      - "Business Operations (workflow, resource allocation, safety compliance)"
+      - Power Plant Design (diesel + renewable integration)
+      - Bill of Materials (BOM) preparation and cost estimation
+      - Operation and Maintenance Planning (organizational structure, labor costing)
+      - Business Operations (workflow, resource allocation, safety compliance)
 
-  - category: Prototyping & Fabrication (from thesis & projects)
+  - category: Prototyping and Fabrication (from thesis and projects)
     tools:
-      - "Experimental Design & Testing (solar dryer prototype)"
-      - "Structural Layouts (foundation design, equipment placement)"
-      - "Process Flow Design (cooling water systems, fuel oil systems)"
+      - Experimental Design and Testing (solar dryer prototype)
+      - Structural Layouts (foundation design, equipment placement)
+      - Process Flow Design (cooling water systems, fuel oil systems)
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.

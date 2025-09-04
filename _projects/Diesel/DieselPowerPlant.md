@@ -20,7 +20,7 @@ main-image: /LayoutDiesel.png
 images="https://live.staticflickr.com/65535/54765046100_a6d040c64e_c.jpg" height="300"%}
 
 <span style="font-size: 10px"> #2 **Generator configuration evaluated** – Compared schemes on capex/opex & reliability; selected 7 units, 16,400 kW achieving PUF 82.2%.</span> {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54765004229_1fa397d7bf_c.jpg" height="300"%}
+images="https://live.staticflickr.com/65535/54765004229_1fa397d7bf_c.jpg" height="350"%}
 
 <span style="font-size: 10px"> #3 **O&M organization designed** – defined roles, headcount, and costs for safe 24/7 operations; workforce 85, annual labor cost ₱36.46M.</span> {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54764699731_c049b0bea9_b.jpg" height="400"%}

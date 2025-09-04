@@ -17,17 +17,17 @@ main-image: /C.jpg
 ---
 # Appendix Preview Gallery 
 ---
-### #1 - Research Poster
+## #1 - Research Poster
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54708934638_c17c6bb3ba_b.jpg" height="600"%}<span style="font-size: 10px">visual summary of study methodology and findings</span>
 ---
-### #2 - AutoCAD Dryer Layout 
+## #2 - AutoCAD Dryer Layout 
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54765417374_652c052058_b.jpg" height="600"%}
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54765419533_d9a5c2984a_z.jpg" height="600"%}
 ---
-### #3 - Schematic Diagram & Flowchart
+## #3 - Schematic Diagram & Flowchart
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54764336027_2717258041_c.jpg" height="600"%}
 {% include image-gallery.html 
@@ -35,11 +35,11 @@ images="https://live.staticflickr.com/65535/54765419488_dd5290c678.jpg" height="
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54765419633_8aaa6dc75e_z.jpg" height="600"%}
 ---
-### #4 - CFD Simulation (airflow and temperature fields)
+## #4 - CFD Simulation (airflow and temperature fields)
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54765417199_61e9245a2e_c.jpg" height="600"%}
 ---
-### #5 - Real-Time Photos (dryer installation & testing)
+## #5 - Real-Time Photos (dryer installation & testing)
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54765179026_5bab1855a1.jpg" height="600"%}
 {% include image-gallery.html 

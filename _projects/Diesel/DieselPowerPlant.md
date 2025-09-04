@@ -25,8 +25,7 @@ images="https://live.staticflickr.com/65535/54765004229_1fa397d7bf_c.jpg" height
 <span style="font-size: 10px"> #3 **O&M organization designed** – defined roles, headcount, and costs for safe 24/7 operations; workforce 85, annual labor cost ₱36.46M.</span> {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54764699731_c049b0bea9_b.jpg" height="400"%}
 
-<span style="font-size: 10px"> #4 **Bill of Materials (BOM)** – Created detailed materials and cost estimates for the plant foundation and key equipment.</span> {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54763855287_7b719fc142_z.jpg" height="300"%}
+<span style="font-size: 10px"> #4 **Bill of Materials (BOM)** – Created detailed materials and cost estimates for the plant foundation and key equipment.</span>
 
 <span style="font-size: 10px"> #5 **Project Leadership & Documenatation** – Coordinated technical sections, unified calculations/assumptions, and enforced consistency across safety, cost, and design deliverables.</span>
 

@@ -1,4 +1,4 @@
-eer# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -14,7 +14,7 @@ title: Jose Luis Bergonio's Portfolio # This is what shows up in the tab of the 
 # Hero Section
 name: Jose Luis Bergonio
 headline: Registered Mechanical Engineer - Cum Laude
-descreiption: >- # dont remove this line. this will ignore all new lines until the next section
+description: >- # dont remove this line. this will ignore all new lines until the next section
  <div style="text-align: justify; line-height: 1.6;"> <p> <strong>Fresh graduate</strong> of <em>Mechanical Engineering</em> from <strong>Mapúa Malayan Colleges Laguna</strong>
   and a <strong>recent passer</strong> of the <em>February 2025 
   Mechanical Engineering Licensure Examination</em>. Experienced in <strong>mechanical design</strong>, <strong>thermodynamics</strong>, and <strong>system analysis</strong>,
@@ -57,46 +57,51 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: Engineering Design & Modeling
+  - category: 3D Modeling
     tools:
-      - SolidWorks (3D modeling and simulation)
-      - AutoCAD (structural and layout design)
-      - Fusion 360 (Autodesk)
-      - Computational Fluid Dynamics (CFD)
-
-  - category: Programming & Computational Tools
+    - Onshape
+    - Solidworks
+    - Creo
+    - Fusion 360 (Autodesk)
+    - Blender (for complex shapes or animations)
+    - Siemens NX
+    - Inventor (Autodesk)
+    - CATIA (Dassault Systèmes)
+  - category: Prototyping
     tools:
-      - MATLAB (data analysis and numerical methods)
-      - Python (basic scripting and data processing)
-      - HTML
-      - CSS
-      - JavaScript
-      - MS Excel (advanced formulas, graphing, cost analysis)
-      - MS Office Suite (Word, PowerPoint, Outlook)
-
-  - category: Technical and Research Skills
+    - SLA
+    - CNC
+    - FDM
+    - SLS
+    - DMLS
+    - PolyJet Printing
+    - Vacuum Casting
+    - Laser Cutting
+    - Water Jet Cutting
+    - Arduino / Raspberry Pi
+    - Breadboarding for circuit testing
+  - category: Design Standards / Practices
     tools:
-      - Project Management (team coordination, documentation structuring)
-      - Data Analysis (statistical methods, performance evaluation)
-      - Report and Technical Writing (academic and engineering documentation)
-      - Research Presentation (defense, poster design, portfolio communication)  
-
-  - category: Systems and Operations
+    - GD&T ASME Y14
+    - ISO fits and tolerances
+    - PLM (PTC Windchill / Arena)   
+  - category: PCB Design
     tools:
-      - Power Plant Design (diesel + renewable integration)
-      - Bill of Materials (BOM) preparation and cost estimation
-      - Operation and Maintenance Planning (organizational structure, labor costing)
-      - Business Operations (workflow, resource allocation, safety compliance)
-
-  - category: Prototyping and Fabrication (from thesis and projects)
+    - Altium Designer
+    - Altium
+    - Eagle 
+    - KiCad
+  - category: Problem Solving / Risk Management
     tools:
-      - Experimental Design and Testing (solar dryer prototype)
-      - Structural Layouts (foundation design, equipment placement)
-      - Process Flow Design (cooling water systems, fuel oil systems)
+    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
+    - DFMEA / PFMEA 
+    - Six Sigma methodologies
+    - Shain Red-X
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/mrbaoako
+formspree-key:   https://formspree.io/f/{8-digit key}
+
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.

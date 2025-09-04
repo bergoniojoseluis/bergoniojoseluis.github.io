@@ -31,7 +31,7 @@ images="https://live.staticflickr.com/65535/54763855227_72be4a550e_c.jpg" height
 ---
 # Appendix Preview Gallery
 ---
-## #1 - General Layout
+### #1 - General Layout
 ---
 {% include image-gallery.html 
 images="https://live.staticflickr.com/65535/54763855227_72be4a550e_c.jpg" height="400"%}

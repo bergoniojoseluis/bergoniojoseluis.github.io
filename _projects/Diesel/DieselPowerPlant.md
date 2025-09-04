@@ -12,7 +12,7 @@ skills:
 - Fuel System Design
 - Bill of Materials
 - 
-main-image: /LayoutDiesel.png
+main-image: /IsometricCooling.png
 ---
 # Contributions & Highlights
 ---

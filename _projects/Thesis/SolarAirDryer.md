@@ -19,7 +19,7 @@ main-image: /C.jpg
 ---
 ## #1 - Research Poster
 {% include image-gallery.html 
-images="https://live.staticflickr.com/65535/54708934638_c17c6bb3ba_b.jpg" height="600"%}<span style="font-size: 10px">visual summary of study methodology and findings</span>
+images="https://live.staticflickr.com/65535/54708934638_c17c6bb3ba_b.jpg" height="600"%}
 ---
 ## #2 - AutoCAD Dryer Layout 
 {% include image-gallery.html 

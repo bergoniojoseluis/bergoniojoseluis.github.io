@@ -35,7 +35,7 @@ profile_image: ./assets/images/profile-image/Bergonio2_ID.jfif
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/1ogaZOhiKkhOyLbhfWruCZaKuxNXRbceM/view?usp=drive_link # or /assets/resume/resume.pdf
+resume-url: https://drive.google.com/file/d/1OPzYrKy-U6xfoZEIuzv47Wm80aX8eo9o/view?usp=drive_link # or /assets/resume/resume.pdf
 intern-url: https://drive.google.com/file/d/1Erqxdf_imgY90qniHdLb191Xr4rFVEei/view?usp=drive_link
 thesis-url: https://drive.google.com/file/d/1yYn3MEmm96nyiXLIE3Y8uHpD0HKCiIk8/view?usp=drive_link
 acti-url:  https://drive.google.com/file/d/1AyJjzpQHZcWIuzGYHvC_9bJHZ7b1RHgh/view?usp=drive_link

@@ -65,11 +65,9 @@ skills:
     - Autodesk Computational Fluid Dynamics (CFD)
   - category: Programming & Computational Tools
     tools:
-    - MATLAB
-    - Python
-    - HTML
-    - CSS
-    - JavaScript
+    - MATLAB (numerical methods)
+    - Python (basic scripting, data processing)
+    - HTML, CSS, JavaScript (portfolio and web projects)
     - MS Excel (Advanced)
     - MS Office Suites (Word, PowerPoint, Outlook)
   - category: Technical & Research Skills
@@ -83,6 +81,7 @@ skills:
     - Bill of Materials (BOM) preperation and cost estimation
     - Operation and Maintenance Planning (organizational structure, labor costing)
     - Business Operations (workflow, resource allocation, safety compliance)
+    - Troubleshooting
   - category: Prototyping & Fabrication (from thesis & projects)
     tools:
     - Experimental Design and Testing 
